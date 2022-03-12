@@ -96,14 +96,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.23.98.127:8081/repository/boa-releases/</url>
+	      <name>pnc-releases</name>
+	      <url>http://52.3.41.70:8081/repository/pnc-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.23.98.127:8081/repository/boa-snapshot/</url>
+	      <name>pnc-snapshots</name>
+	      <url>http://52.3.41.70:8081/repository/pnc-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
