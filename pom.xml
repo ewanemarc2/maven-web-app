@@ -28,6 +28,13 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
 	</properties>
+	<repositories>
+        <repository>
+		<id>nexus</id>
+		<name>pnc-proxy</name>
+		<url>http://52.3.41.70:8081/repository/pnc-proxy/</url>
+	</repository>
+	</repositories>
 
 	<dependencies>
 		
